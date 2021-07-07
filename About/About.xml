@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Caridion Arsenal (Continued)</name>
   <packageId>Mlie.CaridionArsenal</packageId>
@@ -6,6 +6,7 @@
   <url>https://github.com/emipa606/CaridionArsenal</url>
   <supportedVersions>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
@@ -32,5 +33,17 @@ Not compatible with Combat Realism/Extended. Older versions are available on the
 Adds craftable weaponry to your colonists extra fun time on this desolate Rimworld! Includes: Flechette Shotgun, Charge Pistol, Charge SMG, Charge Carbine, Charge Shotgun, Charge LMG, Charge DMR, Charge Sniper, Charge Minigun, Potato Launcher, Flamethrower, Coilgun, Taser Pistol, Taser Rifle and the Hyperboreal Rifle
 
 
-Additional details at: https://ludeon.com/forums/index.php?topic=29772.msg301969#msg301969</description>
+Additional details at: https://ludeon.com/forums/index.php?topic=29772.msg301969#msg301969
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
