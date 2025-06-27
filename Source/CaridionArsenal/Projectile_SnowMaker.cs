@@ -8,14 +8,14 @@ internal class Projectile_SnowMaker : Projectile
     {
         GenExplosion.DoExplosion(Position, Map, def.projectile.explosionRadius, def.projectile.damageDef, launcher,
             def.projectile.GetDamageAmount(launcher), -1, SoundDef.Named("Interact_Ignite"), def, equipmentDef);
-        SnowCreation(Position, def.projectile.explosionRadius, Map);
+        snowCreation(Position, def.projectile.explosionRadius, Map);
         CellRect.CenteredOn(Position, 3).ClipInsideMap(Map);
         base.Impact(hitThing, blockedByShield);
     }
 
-    protected void SnowCreation(IntVec3 pos, float radius, Map map)
+    private static void snowCreation(IntVec3 pos, float radius, Map map)
     {
-        var depthToAdd = 10f;
+        const float depthToAdd = 10f;
         foreach (var a in GenRadial.RadialPatternInRadius(radius))
         {
             var c = a + pos;

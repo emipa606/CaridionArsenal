@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: charge shot -->
+  <Bullet_ChargeCarbine.label>charge shot</Bullet_ChargeCarbine.label>
+  <!-- EN: charge dmr laser -->
+  <Bullet_ChargeDMR.label>charge dmr laser</Bullet_ChargeDMR.label>
+  <!-- EN: lmg laser -->
+  <Bullet_ChargeLMG.label>lmg laser</Bullet_ChargeLMG.label>
+  <!-- EN: minigun laser -->
+  <Bullet_ChargeMinigun.label>minigun laser</Bullet_ChargeMinigun.label>
+  <!-- EN: charge shot -->
+  <Bullet_ChargePistol.label>charge shot</Bullet_ChargePistol.label>
+  <!-- EN: charge shot -->
+  <Bullet_ChargeShotgun.label>charge shot</Bullet_ChargeShotgun.label>
+  <!-- EN: smg laser -->
+  <Bullet_ChargeSMG.label>smg laser</Bullet_ChargeSMG.label>
+  <!-- EN: charge shot -->
+  <Bullet_ChargeSniper.label>charge shot</Bullet_ChargeSniper.label>
+  <!-- EN: coilgun round -->
+  <Bullet_Coilgun.label>coilgun round</Bullet_Coilgun.label>
+  <!-- EN: flechette -->
+  <Bullet_FlechetteShotgun.label>flechette</Bullet_FlechetteShotgun.label>
+  <!-- EN: taser shot -->
+  <Bullet_TaserPistol.label>taser shot</Bullet_TaserPistol.label>
+  <!-- EN: taser shot -->
+  <Bullet_TaserRifle.label>taser shot</Bullet_TaserRifle.label>
+  <!-- EN: flamethrower jet -->
+  <Flame_Flamethrower.label>flamethrower jet</Flame_Flamethrower.label>
+  <!-- EN: hyperboreal rifle -->
+  <Frost_HyperborealRifle.label>hyperboreal rifle</Frost_HyperborealRifle.label>
+  <!-- EN: charge carbine -->
+  <Gun_ChargeCarbine.label>charge carbine</Gun_ChargeCarbine.label>
+  <!-- EN: A short ranged version of the standard charge rifle. Its KAR-BINE not CAH-BINE. -->
+  <Gun_ChargeCarbine.description>A short ranged version of the standard charge rifle. Its KAR-BINE not CAH-BINE.</Gun_ChargeCarbine.description>
+  <!-- EN: stock -->
+  <Gun_ChargeCarbine.tools.stock.label>stock</Gun_ChargeCarbine.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeCarbine.tools.barrel.label>barrel</Gun_ChargeCarbine.tools.barrel.label>
+  <!-- EN: charge carbine -->
+  <Gun_ChargeCarbine.verbs.Verb_Shoot.label>charge carbine</Gun_ChargeCarbine.verbs.Verb_Shoot.label>
+  <!-- EN: charge dmr -->
+  <Gun_ChargeDMR.label>charge dmr</Gun_ChargeDMR.label>
+  <!-- EN: Designated Marksman Rifle. Like an ancient survival rifle but its chargy this time! -->
+  <Gun_ChargeDMR.description>Designated Marksman Rifle. Like an ancient survival rifle but its chargy this time!</Gun_ChargeDMR.description>
+  <!-- EN: stock -->
+  <Gun_ChargeDMR.tools.stock.label>stock</Gun_ChargeDMR.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeDMR.tools.barrel.label>barrel</Gun_ChargeDMR.tools.barrel.label>
+  <!-- EN: charge dmr -->
+  <Gun_ChargeDMR.verbs.Verb_Shoot.label>charge dmr</Gun_ChargeDMR.verbs.Verb_Shoot.label>
+  <!-- EN: charge lmg -->
+  <Gun_ChargeLMG.label>charge lmg</Gun_ChargeLMG.label>
+  <!-- EN: An uncommon bullpup "laser machine gun".  The designer didnt like the additional C. -->
+  <Gun_ChargeLMG.description>An uncommon bullpup "laser machine gun".  The designer didnt like the additional C.</Gun_ChargeLMG.description>
+  <!-- EN: stock -->
+  <Gun_ChargeLMG.tools.stock.label>stock</Gun_ChargeLMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeLMG.tools.barrel.label>barrel</Gun_ChargeLMG.tools.barrel.label>
+  <!-- EN: charge lmg -->
+  <Gun_ChargeLMG.verbs.Verb_Shoot.label>charge lmg</Gun_ChargeLMG.verbs.Verb_Shoot.label>
+  <!-- EN: charge minigun -->
+  <Gun_ChargeMinigun.label>charge minigun</Gun_ChargeMinigun.label>
+  <!-- EN: A laser minigun with an ludicrously high magazine capacity but a high charge time. Popular with bounty hunters. The main downside is identifing the bodies. -->
+  <Gun_ChargeMinigun.description>A laser minigun with an ludicrously high magazine capacity but a high charge time. Popular with bounty hunters. The main downside is identifing the bodies.</Gun_ChargeMinigun.description>
+  <!-- EN: barrels -->
+  <Gun_ChargeMinigun.tools.barrels.label>barrels</Gun_ChargeMinigun.tools.barrels.label>
+  <!-- EN: charge minigun -->
+  <Gun_ChargeMinigun.verbs.Verb_Shoot.label>charge minigun</Gun_ChargeMinigun.verbs.Verb_Shoot.label>
+  <!-- EN: Charge pistol -->
+  <Gun_ChargePistol.label>Charge pistol</Gun_ChargePistol.label>
+  <!-- EN: Light amplified by the stimulated emission of radiation in two-shot pistol form! -->
+  <Gun_ChargePistol.description>Light amplified by the stimulated emission of radiation in two-shot pistol form!</Gun_ChargePistol.description>
+  <!-- EN: grip -->
+  <Gun_ChargePistol.tools.grip.label>grip</Gun_ChargePistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_ChargePistol.tools.barrel.label>barrel</Gun_ChargePistol.tools.barrel.label>
+  <!-- EN: Charge pistol -->
+  <Gun_ChargePistol.verbs.Verb_Shoot.label>Charge pistol</Gun_ChargePistol.verbs.Verb_Shoot.label>
+  <!-- EN: charge shotgun -->
+  <Gun_ChargeShotgun.label>charge shotgun</Gun_ChargeShotgun.label>
+  <!-- EN: The ancient design required laser amplification to improve it. Your enemies become slightly more spread out with each use. -->
+  <Gun_ChargeShotgun.description>The ancient design required laser amplification to improve it. Your enemies become slightly more spread out with each use.</Gun_ChargeShotgun.description>
+  <!-- EN: stock -->
+  <Gun_ChargeShotgun.tools.stock.label>stock</Gun_ChargeShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeShotgun.tools.barrel.label>barrel</Gun_ChargeShotgun.tools.barrel.label>
+  <!-- EN: charge shotgun -->
+  <Gun_ChargeShotgun.verbs.Verb_Shoot.label>charge shotgun</Gun_ChargeShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: charge smg -->
+  <Gun_ChargeSMG.label>charge smg</Gun_ChargeSMG.label>
+  <!-- EN: This SMG is highly damaging, accurate and deadly in the right hands, even if it trades a short charge time for a longer reload time. -->
+  <Gun_ChargeSMG.description>This SMG is highly damaging, accurate and deadly in the right hands, even if it trades a short charge time for a longer reload time.</Gun_ChargeSMG.description>
+  <!-- EN: grip -->
+  <Gun_ChargeSMG.tools.grip.label>grip</Gun_ChargeSMG.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeSMG.tools.barrel.label>barrel</Gun_ChargeSMG.tools.barrel.label>
+  <!-- EN: charge smg -->
+  <Gun_ChargeSMG.verbs.Verb_Shoot.label>charge smg</Gun_ChargeSMG.verbs.Verb_Shoot.label>
+  <!-- EN: charge sniper rifle -->
+  <Gun_ChargeSniper.label>charge sniper rifle</Gun_ChargeSniper.label>
+  <!-- EN: High damage and light weight makes for a brutal combination. Technically bolt action. Prefered gun of any respectable contract killer. -->
+  <Gun_ChargeSniper.description>High damage and light weight makes for a brutal combination. Technically bolt action. Prefered gun of any respectable contract killer.</Gun_ChargeSniper.description>
+  <!-- EN: stock -->
+  <Gun_ChargeSniper.tools.stock.label>stock</Gun_ChargeSniper.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_ChargeSniper.tools.barrel.label>barrel</Gun_ChargeSniper.tools.barrel.label>
+  <!-- EN: charge sniper rifle -->
+  <Gun_ChargeSniper.verbs.Verb_Shoot.label>charge sniper rifle</Gun_ChargeSniper.verbs.Verb_Shoot.label>
+  <!-- EN: coilgun -->
+  <Gun_Coilgun.label>coilgun</Gun_Coilgun.label>
+  <!-- EN: Coilguns use high powered electromagnets to launch a obliterating projectile over an incredibly long distance.  Of course, the capacitor charges incredibly slowly to increase its incredibility. -->
+  <Gun_Coilgun.description>Coilguns use high powered electromagnets to launch a obliterating projectile over an incredibly long distance.  Of course, the capacitor charges incredibly slowly to increase its incredibility.</Gun_Coilgun.description>
+  <!-- EN: barrel -->
+  <Gun_Coilgun.tools.barrel.label>barrel</Gun_Coilgun.tools.barrel.label>
+  <!-- EN: coilgun -->
+  <Gun_Coilgun.verbs.Verb_Shoot.label>coilgun</Gun_Coilgun.verbs.Verb_Shoot.label>
+  <!-- EN: flame thrower -->
+  <Gun_FlameThrower.label>flame thrower</Gun_FlameThrower.label>
+  <!-- EN: One deranged colonist from that possibly friendly midworld colony expanded on the "hairspray and lighter" concept a while ago. Pyromaniacs praise said colonist as their deity. -->
+  <Gun_FlameThrower.description>One deranged colonist from that possibly friendly midworld colony expanded on the "hairspray and lighter" concept a while ago. Pyromaniacs praise said colonist as their deity.</Gun_FlameThrower.description>
+  <!-- EN: stock -->
+  <Gun_FlameThrower.tools.stock.label>stock</Gun_FlameThrower.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_FlameThrower.tools.barrel.label>barrel</Gun_FlameThrower.tools.barrel.label>
+  <!-- EN: flame thrower -->
+  <Gun_FlameThrower.verbs.Verb_Shoot.label>flame thrower</Gun_FlameThrower.verbs.Verb_Shoot.label>
+  <!-- EN: flechette shotgun -->
+  <Gun_FlechetteShotgun.label>flechette shotgun</Gun_FlechetteShotgun.label>
+  <!-- EN: Similar design to the Pump shotgun, only it uses heavy "flechettes", which are practically darts. Perfect for pub games on your enemies. -->
+  <Gun_FlechetteShotgun.description>Similar design to the Pump shotgun, only it uses heavy "flechettes", which are practically darts. Perfect for pub games on your enemies.</Gun_FlechetteShotgun.description>
+  <!-- EN: stock -->
+  <Gun_FlechetteShotgun.tools.stock.label>stock</Gun_FlechetteShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_FlechetteShotgun.tools.barrel.label>barrel</Gun_FlechetteShotgun.tools.barrel.label>
+  <!-- EN: flechette shotgun -->
+  <Gun_FlechetteShotgun.verbs.Verb_Shoot.label>flechette shotgun</Gun_FlechetteShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: hyperboreal rifle -->
+  <Gun_HyperborealRifle.label>hyperboreal rifle</Gun_HyperborealRifle.label>
+  <!-- EN: Pyromaniacs tend to fear this quantum ice cream maker, ironically due it being their version of hell. -->
+  <Gun_HyperborealRifle.description>Pyromaniacs tend to fear this quantum ice cream maker, ironically due it being their version of hell.</Gun_HyperborealRifle.description>
+  <!-- EN: stock -->
+  <Gun_HyperborealRifle.tools.stock.label>stock</Gun_HyperborealRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_HyperborealRifle.tools.barrel.label>barrel</Gun_HyperborealRifle.tools.barrel.label>
+  <!-- EN: hyperboreal rifle -->
+  <Gun_HyperborealRifle.verbs.Verb_Shoot.label>hyperboreal rifle</Gun_HyperborealRifle.verbs.Verb_Shoot.label>
+  <!-- EN: potato launcher -->
+  <Gun_PotatoLauncher.label>potato launcher</Gun_PotatoLauncher.label>
+  <!-- EN: The designers of this weapon thought it would be funny to go for something off the hook. What they made was exactly that... and then some. Coleslaw not included. -->
+  <Gun_PotatoLauncher.description>The designers of this weapon thought it would be funny to go for something off the hook. What they made was exactly that... and then some. Coleslaw not included.</Gun_PotatoLauncher.description>
+  <!-- EN: stock -->
+  <Gun_PotatoLauncher.tools.stock.label>stock</Gun_PotatoLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_PotatoLauncher.tools.barrel.label>barrel</Gun_PotatoLauncher.tools.barrel.label>
+  <!-- EN: potato launcher -->
+  <Gun_PotatoLauncher.verbs.Verb_Shoot.label>potato launcher</Gun_PotatoLauncher.verbs.Verb_Shoot.label>
+  <!-- EN: taser pistol -->
+  <Gun_TaserPistol.label>taser pistol</Gun_TaserPistol.label>
+  <!-- EN: Taking high voltage to your body is an acquired tased -->
+  <Gun_TaserPistol.description>Taking high voltage to your body is an acquired tased</Gun_TaserPistol.description>
+  <!-- EN: grip -->
+  <Gun_TaserPistol.tools.grip.label>grip</Gun_TaserPistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_TaserPistol.tools.barrel.label>barrel</Gun_TaserPistol.tools.barrel.label>
+  <!-- EN: taser pistol -->
+  <Gun_TaserPistol.verbs.Verb_Shoot.label>taser pistol</Gun_TaserPistol.verbs.Verb_Shoot.label>
+  <!-- EN: taser rifle -->
+  <Gun_TaserRifle.label>taser rifle</Gun_TaserRifle.label>
+  <!-- EN: This rifle has an absolutely stunning display to show your friends! -->
+  <Gun_TaserRifle.description>This rifle has an absolutely stunning display to show your friends!</Gun_TaserRifle.description>
+  <!-- EN: stock -->
+  <Gun_TaserRifle.tools.stock.label>stock</Gun_TaserRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_TaserRifle.tools.barrel.label>barrel</Gun_TaserRifle.tools.barrel.label>
+  <!-- EN: taser rifle -->
+  <Gun_TaserRifle.verbs.Verb_Shoot.label>taser rifle</Gun_TaserRifle.verbs.Verb_Shoot.label>
+  <!-- EN: potato -->
+  <Potato.label>potato</Potato.label>
+</LanguageData>

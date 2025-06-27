@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2256000103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 691f609d1cd183b4e4be59172de7e519
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 691f609d1cd183b4e4be59172de7e519
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargePistol.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargeSniper.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargeSMG.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargeLMG.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/FlechetteShotgun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargePistol.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/HyperborealRifle.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargeDMR.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/TaserPistol.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/HyperborealRifle.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/PotLaunch.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargeCarbine.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargeCarbine.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargeMinigun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/Coilgun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/TaserRifle.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/PotLaunch.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/TaserRifle.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargeSMG.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/Flamethrower.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Projectiles/Supercoolant.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/TaserPistol.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargeShotgun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Projectiles/Potato.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargeShotgun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/Flamethrower.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargeLMG.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/Coilgun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargeSniper.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/ChargeDMR.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/UI/FlechetteShotgun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Weapon/ChargeMinigun.png
+- Assets/Data/Mlie.CaridionArsenal/Textures/Things/Projectiles/Flame.png
+Dependencies: []
