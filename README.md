@@ -1,15 +1,15 @@
 # [Caridion Arsenal (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2332908273)
 
-![Image](https://i.imgur.com/buuPQel.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Neildmacs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=846378171
 
 - Increased the weapons texture-resolution based on the forum-originals
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.imgur.com/Z4GOv8H.png)
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Your typical weapons mod, in this case adding Charged weapons and misc weapons. All weapons can be crafted after the respective research is unlocked at the Machining table. Variants have their own quirks and values that allow for differing uses to their vanilla counterparts.
 
@@ -20,13 +20,13 @@ Adds craftable weaponry to your colonists extra fun time on this desolate Rimwor
 
 Additional details at: https://ludeon.com/forums/index.php?topic=29772.msg301969#msg301969
 
-![Image](https://i.imgur.com/PwoNOj4.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  Always post your log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
@@ -34,4 +34,4 @@ Additional details at: https://ludeon.com/forums/index.php?topic=29772.msg301969
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/CaridionArsenal?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2332908273) | tags: weapons,  variants
+[![Image](https://img.shields.io/github/v/release/emipa606/CaridionArsenal?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2332908273) | variants, weapons
